@@ -24,7 +24,7 @@ def open(dir_name):
 def picture(subject):
     """Picture Pie"""
     newdict = open(subject)
-    bar_chart = pygal.Bar()
+    bar_chart = pygal.Bar(style=DarkStyle)
     bar_chart.title = subject+"'s movies vote_average."
     dictlist = []
     for key, value in newdict.items():
