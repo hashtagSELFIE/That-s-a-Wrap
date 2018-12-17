@@ -7,7 +7,7 @@ Data Set     : Completed<br>
 Data Graph   : Uncompleted<br>
 Project      : Uncompleted<br>
 
-<center>[OUR WEB](https://hashtagselfie.github.io/That-s-a-Wrap/)</center>
+[OUR WEB](https://hashtagselfie.github.io/That-s-a-Wrap/)
 
 # Members
 
