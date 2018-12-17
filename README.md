@@ -2,10 +2,10 @@
 This project is a part of the subject Problem Solving in Information Technology **(PSIT)**, Faculty of Information Technology, King Mongkut's Institute of Technology Ladkrabang **(KMITL)**.
 
 # Status
-Project Site : Uncompleted<br>
-Data Set     : Completed<br>
-Data Graph   : Uncompleted<br>
-Project      : Uncompleted<br>
+Project Website : Uncompleted<br>
+Data Set        : Completed<br>
+Data Graph      : Uncompleted<br>
+Project         : Uncompleted<br>
 
 [OUR WEB](https://hashtagselfie.github.io/That-s-a-Wrap/)
 
