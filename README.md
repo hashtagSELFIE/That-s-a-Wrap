@@ -32,6 +32,6 @@ Project      : Uncompleted<br>
 <br />
 
 # Credits
- - Movie Dataset from this [link](https://www.kaggle.com/rounakbanik/the-movies-dataset) .
+ - Movie Dataset from [this link](https://www.kaggle.com/rounakbanik/the-movies-dataset) .
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
