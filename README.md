@@ -11,10 +11,10 @@ Project      : Uncompleted<br>
 
 <center><table>
  <tr>
-  <th><img src="Docs/img/team/1.jpg" height="150" width="130"></th>
-  <th><img src="Docs/img/team/2.jpg" height="150" width="150"></th>
-  <th><img src="Docs/img/team/3.jpg" height="150" width="150"></th>
-  <th><img src="Docs/img/team/4.jpg" height="150" width="150"></th>
+  <th><img src="img/team/1.jpg" height="150" width="130"></th>
+  <th><img src="img/team/2.jpg" height="150" width="150"></th>
+  <th><img src="img/team/3.jpg" height="150" width="150"></th>
+  <th><img src="img/team/4.jpg" height="150" width="150"></th>
  </tr>
  <tr>
   <th><p align="center">Chetsadaporn Traivinidsreesuk</p></th> 
