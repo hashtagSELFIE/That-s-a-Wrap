@@ -25,9 +25,12 @@ def picture(subject):
     """Picture Pie"""
     newdict = open(subject)
     bar_chart = pygal.Bar()
-    bar_chart.title = subject+"'s movies genres."
-    lis = sorted(newdict.items(), key=lambda x: x[1], reverse=True)
-    for i in lis:
+    bar_chart.title = subject+"'s movies ratings."
+	dictlist = []
+	for key, value in newdict.iteritems():
+        temp = [key,value]
+        dictlist.append(temp)
+    for i in newdict:
         bar_chart.add(i[0], i[1])
     bar_chart.render_to_file('%s_bar.svg' % subject)
     print("Done!!")
