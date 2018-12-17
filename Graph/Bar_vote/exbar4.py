@@ -25,7 +25,7 @@ def picture(subject):
     """Picture Pie"""
     newdict = open(subject)
     bar_chart = pygal.Bar()
-    bar_chart.title = subject+"'s movies ratings."
+    bar_chart.title = subject+"'s movies vote_average."
     dictlist = []
     for key, value in newdict.items():
         temp = [key,value]
