@@ -3,6 +3,7 @@
 import pygal
 import pandas as pd
 from ast import literal_eval
+from pygal.style import DarkStyle
 
 def open(dir_name):
     """openfile,last_data"""
