@@ -8,14 +8,13 @@ def open(dir_name):
     """openfile,last_data"""
     movie_type = {}
     filedata = pd.read_csv('completed_movie_database_for_PSIT.csv')
-    top1 = filedata.loc[filedata['director'] == dir_name, ["vote_average", "revenue"]]
+    top1 = filedata.loc[filedata['director'] == dir_name, ["title", "vote_average", "revenue"]]
     for i in range(len(top1.index)):
         currenttitle = top1.iloc[i]['title']
-        for j in top1.iloc[i]['vote_average']:
-            if currenttitle in movie_type:
-                movie_type[currenttitle] += j
-            else:
-                movie_type[currenttitle] = j
+        if currenttitle in movie_type:
+            movie_type[currenttitle] += top1.iloc[i]['vote_average']
+        else:
+            movie_type[currenttitle] = top1.iloc[i]['vote_average']
     print("Data Success!!")
     return movie_type
 
