@@ -26,11 +26,11 @@ def picture(subject):
     newdict = open(subject)
     bar_chart = pygal.Bar()
     bar_chart.title = subject+"'s movies ratings."
-	dictlist = []
-	for key, value in newdict.iteritems():
+    dictlist = []
+    for key, value in newdict.items():
         temp = [key,value]
         dictlist.append(temp)
-    for i in newdict:
+    for i in dictlist:
         bar_chart.add(i[0], i[1])
     bar_chart.render_to_file('%s_bar.svg' % subject)
     print("Done!!")
