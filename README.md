@@ -33,5 +33,6 @@ Project      : Uncompleted<br>
 
 # Credits
  - Movie Dataset from [this link](https://www.kaggle.com/rounakbanik/the-movies-dataset) .
+ - Template from [this link](https://www.kaggle.com/rounakbanik/the-movies-dataset) and [that link](https://startbootstrap.com/template-overviews/full-slider/) .
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
