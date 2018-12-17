@@ -4,7 +4,7 @@ This project is a part of the subject Problem Solving in Information Technology 
 # Status
 Project Website : Uncompleted<br>
 Data Set        : Completed<br>
-Data Graph      : Uncompleted<br>
+Data Graph      : Completed<br>
 Project         : Uncompleted<br>
 
 [OUR WEB](https://hashtagselfie.github.io/That-s-a-Wrap/)
