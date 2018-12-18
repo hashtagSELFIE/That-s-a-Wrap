@@ -11,6 +11,7 @@ Project         : Uncompleted<br>
 
 # Project Video
 
+Click image below to watch!
 [![Watch Our submarry video!](https://img.youtube.com/vi/7zlsieGFbNU/0.jpg)](https://www.youtube.com/watch?v=7zlsieGFbNU)
 
 # Members
