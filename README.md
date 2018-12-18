@@ -1,11 +1,12 @@
 # That's a Wrap
-This project is a part of the subject Problem Solving in Information Technology **(PSIT)**, Faculty of Information Technology, King Mongkut's Institute of Technology Ladkrabang **(KMITL)**.
+โครงงานนี้เป็นส่วนหนึ่งของวิชา Problem Solving in Information Technology (PSIT) คณะเทคโนโลยีสารสนเทศ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง (สจล.)<br>
+โครงงานนี้จะบอกเกี่ยวกับ10อันดับผู้กำกับที่ทำเงินสูงสุดโดยวัดจากรายได้จากภาพยนตร์และคะแนนโหวตของภาพยนตร์ โดยข้อมูลที่เรานำมาวิเคราะห์โครงงานนี้เรานำเอาภาพยนตร์กว่า 44,544 เรื่อง ที่นำมาฉายตั้งแต่ ปี 1995 จนถึง 2017 คัดเฉพาะเรื่องที่มีรายได้มากกว่า 100,000 ดอลลาร์สหรัฐ จนเหลือเพียงแค่ 6,810 เรื่องเท่านั้น<br>
 
 # Status
-Project Website : Uncompleted<br>
+Project Website : Completed<br>
 Data Set        : Completed<br>
 Data Graph      : Completed<br>
-Project         : Uncompleted<br>
+Project         : Completed<br>
 
 [OUR WEB](https://hashtagselfie.github.io/That-s-a-Wrap/)
 
