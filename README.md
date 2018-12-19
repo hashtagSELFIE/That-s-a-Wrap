@@ -38,7 +38,7 @@ Project         : Completed<br>
 
 Click image below to watch!<br>
 
-[![Watch Our submarry video!](https://img.youtube.com/vi/7zlsieGFbNU/0.jpg)](https://www.youtube.com/watch?v=7zlsieGFbNU)
+[![Watch Our summary video!](https://img.youtube.com/vi/7zlsieGFbNU/0.jpg)](https://www.youtube.com/watch?v=7zlsieGFbNU)
 
 # Members
 
